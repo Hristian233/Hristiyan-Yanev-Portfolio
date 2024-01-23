@@ -34,7 +34,7 @@ const Works = () => {
 							/> */}
 							<div className="work-title">Commerzbank DTC Sofia</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Full-Stack Developer 
 							</div>
 							<div className="work-duration">Mar 2023 - Present</div>
 						</div>
