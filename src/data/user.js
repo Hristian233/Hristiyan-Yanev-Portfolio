@@ -1,7 +1,7 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
+		title: "Hristiyan Yanev Portfolio",
+		name: "Hristiyan.y",
 		email: "yanevhr@yahoo.com",
 		logo: "../logo.jpeg",
 	},
@@ -16,7 +16,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web, traveler and hobby athlete.",
+		title: "Full-stack web developer, traveler and hobby athlete.",
 		description:
 			"During my years of working as a software engineer I have gained knowledge with multiple technologies. I am most experienced in Angular with Typescript and React for Front-End (4-5 years) and Java Spring for Back-End (1-2 years). I enjoy solving complex problems and learning new skills. My enthusiasm lies in crafting top-notch code that adheres to industry standards and best practices. I consistently seek fresh challenges and opportunities for professional growth as a developer.",
 	},
