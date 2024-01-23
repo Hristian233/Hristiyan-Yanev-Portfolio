@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Hristiyan Yanev Portfolio",
+		title: "Hristiyan Yanev's Portfolio",
 		name: "Hristiyan.y",
 		email: "yanevhr@yahoo.com",
 		logo: "../logo.jpeg",
