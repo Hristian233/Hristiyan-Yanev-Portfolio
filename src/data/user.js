@@ -35,6 +35,15 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Angular Translate Pipe",
+			description:
+				"Custom written pipe in Angular which is used for displaying the content in a certain language",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://angular-translate-pipe.vercel.app/",
+		},
+		
+		{
 			title: "Guitar Shop",
 			description:
 				"The projects uses React.JS with Redux Store for the Frontend, Node.JS for the Backend and MongoDB for the Database.",
@@ -59,15 +68,6 @@ const INFO = {
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
 			link: "https://github.com/Hristian233/Angular-Softuni-Exam",
-		},
-
-		{
-			title: "Angular Translate Pipe",
-			description:
-				"Custom written pipe in Angular which is used for displaying the content in a certain language",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
 		}
 	],
 };
