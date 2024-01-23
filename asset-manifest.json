@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hristiyan-Yanev-Portfolio/static/css/main.c581985d.css",
+    "main.js": "/Hristiyan-Yanev-Portfolio/static/js/main.9ff1bb36.js",
+    "static/js/787.512dd3f2.chunk.js": "/Hristiyan-Yanev-Portfolio/static/js/787.512dd3f2.chunk.js",
+    "index.html": "/Hristiyan-Yanev-Portfolio/index.html",
+    "main.c581985d.css.map": "/Hristiyan-Yanev-Portfolio/static/css/main.c581985d.css.map",
+    "main.9ff1bb36.js.map": "/Hristiyan-Yanev-Portfolio/static/js/main.9ff1bb36.js.map",
+    "787.512dd3f2.chunk.js.map": "/Hristiyan-Yanev-Portfolio/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c581985d.css",
+    "static/js/main.9ff1bb36.js"
+  ]
+}
