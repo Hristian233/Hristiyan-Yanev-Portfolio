@@ -24,7 +24,7 @@ const INFO = {
 	about: {
 		title: "I am Hristiyan Y. I live in Sofia, Bulgaria. I see the challenges as my inspiration.",
 		description:
-		"I\'ve worked on a variety of projects over the years and I\'m proud of the progress I\'ve made. As already mentioned most of my interested are focused on the Front-End and Full-Stack Development. However I have some other superpowers that I am willing to share with you. I have finished a Bachelor\'s Degree in International Economic Relations. I am currently pursing an MBA with specialization in Leadership and Management.I am keen on technologies and also have experience with testing APIs and creating API calls with Postman and Thunder Client, doing monitoring with Dynatrance and Kibana and creating C-written scripts for load testing with VuGen/Loadrunner. I speak English and German very fluently (C1 level) and Bulgarian is my mother tongue."
+		"I\'ve worked on a variety of projects over the years and I\'m proud of the progress I\'ve made. As already mentioned most of my interested are focused on the Front-End and Full-Stack Development. However I have some other superpowers that I am willing to share with you. I have finished a Bachelor\'s Degree in International Economic Relations. I am currently pursing an MBA with specialization in Management and Leadership. I am keen on technologies and also have experience with testing APIs and creating API calls with Postman and Thunder Client, doing monitoring with Dynatrace/Kibana and creating C-written scripts for load testing with VuGen/Loadrunner. I speak English and German very fluently (C1 level) and Bulgarian is my mother tongue."
 	},
 
 	articles: {
