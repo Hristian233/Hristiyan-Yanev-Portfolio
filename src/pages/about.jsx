@@ -45,8 +45,38 @@ const About = () => {
 									{INFO.about.title}
 								</div>
 
+								<div className="subtitle about-subtitle reference">
+									For a complete list of my services please
+									check below
+								</div>
+
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
+								</div>
+
+								<div className="subtitle about-subtitle">
+									Frontend: <br />
+									- Appr. 5 years of working with Front-End
+									technologies like Angular and React. I also
+									have experience in developing application in
+									pure HTML/CSS with Javascript <br /> <br />
+									Backend: <br /> - I have 2 years of
+									experience developing Back-End. I have
+									worked with Java Spring and Javascript with
+									Nest.JS and Node.JS <br /> <br />
+									DevOps: <br />
+									- Deploying and hosting webpages on various
+									cloud services. <br />- Monitoring with
+									Dynatrace and Kibana
+									<br /> - API Testing with Postman and
+									Thunder Client <br /> <br />
+									Load testing: <br />- Creating and
+									developing scripts with VuGen and
+									LoadRunner. The purpose of the scripts is to
+									simulate different scenarios in which
+									multiple (virtual) users visit your
+									application and use your services to see how
+									much load they can withstand
 								</div>
 							</div>
 

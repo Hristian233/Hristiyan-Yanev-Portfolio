@@ -37,6 +37,10 @@
 	width: 80% !important;
 }
 
+.reference {
+	font-weight: bold;
+}
+
 .about-left-side {
 	display: flex;
 	flex-direction: column;
