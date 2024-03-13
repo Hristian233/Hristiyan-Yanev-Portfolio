@@ -68,8 +68,11 @@ const About = () => {
 									- Deploying and hosting webpages on various
 									cloud services. <br />- Monitoring with
 									Dynatrace and Kibana
-									<br /> - API Testing with Postman and
-									Thunder Client <br /> <br />
+									<br /> <br />
+									APIs:
+									<br />
+									- API Testing with Postman and Thunder
+									Client <br /> <br />
 									Load testing: <br />- Creating and
 									developing scripts with VuGen and
 									LoadRunner. The purpose of the scripts is to
