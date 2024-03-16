@@ -34,6 +34,14 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Landing page",
+			description:
+				"Sample landing page desinged in pure HTML/CSS for a company",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://consulting-lp.vercel.app/index.html",
+		},
+		{
 			title: "Angular Translate Pipe",
 			description:
 				"Custom written pipe in Angular which is used for displaying the content in a certain language",
